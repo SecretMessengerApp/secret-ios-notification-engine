@@ -1,0 +1,8 @@
+
+
+#include "warnings.xcconfig"
+
+
+// LLVM - Warning Policies
+//
+GCC_TREAT_WARNINGS_AS_ERRORS = YES
